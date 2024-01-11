@@ -19,4 +19,4 @@ def grad(f, p):
 ```
 
 ## 自作部分
-因為不一開始不太理解有使用chatgpt輔助，嘔來有把code重打一次並理解code。
+因為不一開始不太理解有使用chatgpt輔助，後來有把code重打一次並理解code。
