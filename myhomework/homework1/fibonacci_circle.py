@@ -1,7 +1,7 @@
 from datetime import datetime
 
 # 原始遞迴版本
-fib = [None] * 10000
+fib = [None] * 10000                #創建長度為10000的列表
 fib[0] = 0
 fib[1] = 1
 
