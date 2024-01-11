@@ -3,7 +3,7 @@
 
 ## 提示
 用數值偏微分就好
-'''python
+```python
 # 函數 f 對變數 p[k] 的偏微分: df / dp[k]
 def df(f, p, k):
     p1 = p.copy()
@@ -16,4 +16,7 @@ def grad(f, p):
     for k in range(len(p)):
         gp[k] = df(f, p, k)
     return gp
-'''
+```
+
+## 自作部分
+因為不一開始不太理解有使用chatgpt輔助，嘔來有把code重打一次並理解code。
