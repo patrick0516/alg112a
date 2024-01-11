@@ -10,5 +10,6 @@ Geoffery Hinton（傑弗里·欣頓），在愛丁堡大學獲得人工智慧博
 在ACM的公告中，Hinton最重要的貢獻來自他1986年發明反向傳播的論文「Learning Internal Representations by Error Propagation」，1983年發明的玻爾茲曼機（Boltzmann Machines），以及2012年對卷積神經網絡的改進。Hinton和他的學生Alex Krizhevsky以及Ilya Sutskever 通過Rectified Linear Neurons和Dropout Regularization改進了卷積神經網絡，並在著名的ImageNet評測中取得了很好的成績，在計算機視覺領域掀起一場革命。
 
 ### 重要資料
-[Learning Internal Representations by Error Propagation的中文介紹]https://zhuanlan.zhihu.com/p/413781234
+[Learning Internal Representations by Error Propagation的中文介紹](https://zhuanlan.zhihu.com/p/413781234)
+
 [Learning Internal Representations by Error Propagation的原文論文](https://ieeexplore.ieee.org/document/6302929)
